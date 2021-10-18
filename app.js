@@ -30,6 +30,16 @@ const quiz = [
   ],
   correct: "ミニチュアダックスフンド"
 
+},{
+  question: "猫に禁忌なの抗生物質は以下のうちどれ?",
+  answers: [
+    "アミノグリコシド系",
+    "クロラムフェニコール系",
+    "テトラサイクリン系",
+    "マクロライド系"
+  ],
+  correct: "テトラサイクリン系"
+
 }];
 
 const quizLength = quiz.length;
